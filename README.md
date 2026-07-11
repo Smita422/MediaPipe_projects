@@ -30,43 +30,9 @@ This repository combines multiple MediaPipe applications into one project, makin
 - NumPy
 - Matplotlib
 
----
-
-## 📂 Project Structure
-
-```
-MediaPipe-AI-Studio/
-│
-├── app.py
-├── modules/
-├── assets/
-├── requirements.txt
-└── README.md
-```
 
 ---
 
-## 🚀 Getting Started
-
-### Clone the repository
-
-```bash
-git clone https://github.com/your-username/MediaPipe-AI-Studio.git
-```
-
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run the project
-
-```bash
-python app.py
-```
-
----
 
 ## 📷 Applications Included
 
